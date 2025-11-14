@@ -4,7 +4,7 @@
 
 ## 🌐 **Explore Live**
 **👉 Experience the App:**
-[Visit Live Demo](https://issac-moses-weather-app.netlify.app)
+[Visit Live Demo](https://weathermap-application.netlify.app)
 
 ## 📷 **Visual Output**
 ![Weather App Demo ScreenShot](/demo/Default.jpeg)
